@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reneeisnowhere
 - 👀 I’m interested in Biochemistry and Chocolate.
-- 🌱 I’m currently learning R for data processing.
+- 🌱 I’m currently learning HPC methods to processing my sequence data.
 - 💞️ I’m looking to collaborate on work as soon as I figure this out.
 - 📫 How to reach me ermatthe (at)  utmb (dot) edu
 
