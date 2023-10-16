@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @reneeisnowhere
+- 👋 Hi, I’m @reneeisnowhere, also known as Renee Matthews
 - 👀 I’m interested in Biochemistry and Chocolate.
-- 🌱 I’m currently learning HPC methods to process my sequence data.
-- 💞️ I’m looking to collaborate on work as soon as I figure this out.
+I have little to no idea how I am doing all of this!  ;)
 - 📫 How to reach me ermatthe (at)  utmb (dot) edu
 
 <!---
